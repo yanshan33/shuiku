@@ -8,4 +8,5 @@
 * [大纲的困扰 \#40](da-gang-de-kun-rao-40.md)
 * [经济学第一定律 \#50](jing-ji-xue-di-yi-ding-lv-50.md)
 * [生产与抢劫 \#60](sheng-chan-yu-qiang-jie-60.md)
+* [政治学第一定律 \#70](zheng-zhi-xue-di-yi-ding-lv-70.md)
 
