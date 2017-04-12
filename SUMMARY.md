@@ -7,4 +7,5 @@
 * [无风险套利 \#30](wu-feng-xian-tao-li-30.md)
 * [大纲的困扰 \#40](da-gang-de-kun-rao-40.md)
 * [经济学第一定律 \#50](jing-ji-xue-di-yi-ding-lv-50.md)
+* [生产与抢劫 \#60](sheng-chan-yu-qiang-jie-60.md)
 
