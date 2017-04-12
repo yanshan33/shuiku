@@ -1,0 +1,7 @@
+{
+"plugins": [
+"mathjax"
+,"ga"
+,"collapsible-chapters"
+],
+}
