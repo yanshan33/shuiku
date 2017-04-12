@@ -11,4 +11,5 @@
 * [政治学第一定律 \#70](zheng-zhi-xue-di-yi-ding-lv-70.md)
 * [经济学第二定律 \#72](jing-ji-xue-di-er-ding-lv-72.md)
 * [经济学第三定律 \#75](jing-ji-xue-di-san-ding-lv-75.md)
+* [邪恶的媒体 \#80 ](xie-e-de-mei-ti-80.md)
 
