@@ -1,7 +1,5 @@
 {
 "plugins": [
-"mathjax"
-,"ga"
-,"collapsible-chapters"
+"katex"
 ]
 }
