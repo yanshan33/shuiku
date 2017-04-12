@@ -1,3 +1,12 @@
 {
-    "plugins": ["katex"]
+  "plugins": ["katex"],
+
+    "pluginsConfig": {
+        "sharing": {
+            "weibo": true
+        }
+    },
+
+    "plugins": ["-lunr", "-search", "search-plus"]
+
 }
