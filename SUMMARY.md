@@ -17,4 +17,5 @@
 * [回报率的误解 \#110](hui-bao-lv-de-wu-jie-110.md)
 * [万世不移的财富 \#120](wan-shi-bu-yi-de-cai-fu-120.md)
 * [职业炒家（一）\#130](zhi-ye-chao-jia-ff08-yi-ff0923-130.md)
+* [职业炒家（二）------ 实业之殇 \#140](zhi-ye-chao-jia-ff08-er-ff09-shi-ye-zhi-shang-140.md)
 
