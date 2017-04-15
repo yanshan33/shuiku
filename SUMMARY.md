@@ -25,4 +25,5 @@
 * [职业炒家（六）---- 卖出 \#190](zhi-ye-chao-jia-ff08-liu-ff09-mai-chu-190.md)
 * [炒楼业的忌讳 \#192](chao-lou-ye-de-ji-hui-192.md)
 * [通彻地看待这个世界\#200](tong-che-di-kan-dai-zhe-ge-shi-754c23-200.md)
+* [市场营销入门 \#210](shi-chang-ying-xiao-ru-men-210.md)
 
