@@ -23,4 +23,5 @@
 * [职业炒家（五）---- 升值 \#170](zhi-ye-chao-jia-ff08-wu-ff09-sheng-zhi-170.md)
 * [职业炒家（五番外篇）温州炒房团 \#180](wen-zhou-chao-fang-tuan-180.md)
 * [职业炒家（六）---- 卖出 \#190](zhi-ye-chao-jia-ff08-liu-ff09-mai-chu-190.md)
+* [炒楼业的忌讳 \#192](chao-lou-ye-de-ji-hui-192.md)
 
