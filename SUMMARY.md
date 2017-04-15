@@ -20,6 +20,7 @@
 * [职业炒家（二）------ 实业之殇 \#140](zhi-ye-chao-jia-ff08-er-ff09-shi-ye-zhi-shang-140.md)
 * [职业炒家（三）----- 正义感 \#150](zhi-ye-chao-jia-ff08-san-ff09-zheng-yi-gan-150.md)
 * [职业炒家（四）----- 买进 \#160](zhi-ye-chao-jia-ff08-si-ff09-mai-jin-160.md)
+* [职业炒家（五）----- 升值 \#170](zhi-ye-chao-jia-ff08-wu-ff09-sheng-zhi-170.md)
 * [职业炒家（五番外篇）温州炒房团 \#180](wen-zhou-chao-fang-tuan-180.md)
 * [职业炒家（六）---- 卖出 \#190](zhi-ye-chao-jia-ff08-liu-ff09-mai-chu-190.md)
 * [炒楼业的忌讳 \#192](chao-lou-ye-de-ji-hui-192.md)
