@@ -27,4 +27,5 @@
 * [通彻地看待这个世界\#200](tong-che-di-kan-dai-zhe-ge-shi-754c23-200.md)
 * [市场营销入门 \#210](shi-chang-ying-xiao-ru-men-210.md)
 * [Re-Sale为什么这么难 \#220](re-salewei-shi-yao-zhe-yao-nan-220.md)
+* [如何运营一家企业 \#230](ru-he-yun-ying-yi-jia-qi-ye-230.md)
 
